@@ -1,9 +1,9 @@
 ---
-title: Test Page
+title: 友情链接
 layout: page
 ---
 
-# This is heading 1
+<!-- # This is heading 1
 ## This is heading 2
 ### This is heading 3
 #### This is heading 4
@@ -26,4 +26,4 @@ layout: page
 1. Item 1
 2. Item 2
 3. Item 3
-4. Item 4
+4. Item 4 -->
